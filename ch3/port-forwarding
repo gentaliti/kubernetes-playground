@@ -1,0 +1,2 @@
+# Typically used for debug purposes
+kubectl port-forward kubia-manual 8888:8080
